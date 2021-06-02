@@ -1,1 +1,2 @@
 This is the beginning of git and github lecture
+added new text
